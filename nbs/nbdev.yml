@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "cookbook"
+  site-url: "https://Accessible-Data-and-Code.github.io/cookbook"
+  description: "A cookbook for creating scientific web applications in Jupyter Notebooks"
+  repo-branch: main
+  repo-url: "https://github.com/Accessible-Data-and-Code/cookbook"
